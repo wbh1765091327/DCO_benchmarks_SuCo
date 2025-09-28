@@ -1,0 +1,12 @@
+>>> Loading dataset from: ./data/gist-960-euclidean/gist-960-euclidean_base.fvecs
+Cardinality of dataset is: 999900
+>>> Loading query from: ./data/gist-960-euclidean/gist-960-euclidean_query.fvecs
+Finish initialize the data of 0-th subspace. 
+Finish initialize the data of 1-th subspace. 
+Finish initialize the data of 2-th subspace. 
+Finish initialize the data of 3-th subspace. 
+Finish initialize the data of 4-th subspace. 
+Finish initialize the data of 5-th subspace. 
+Finish initialize the data of 6-th subspace. 
+Finish initialize the data of 7-th subspace. 
+The preprocess time is: 14329.8ms.

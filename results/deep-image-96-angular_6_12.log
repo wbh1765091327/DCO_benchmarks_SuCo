@@ -1,0 +1,10 @@
+>>> Loading dataset from: ./data/deep-image-96-angular/deep-image-96-angular_base.fvecs
+Cardinality of dataset is: 999900
+>>> Loading query from: ./data/deep-image-96-angular/deep-image-96-angular_query.fvecs
+Finish initialize the data of 0-th subspace. 
+Finish initialize the data of 1-th subspace. 
+Finish initialize the data of 2-th subspace. 
+Finish initialize the data of 3-th subspace. 
+Finish initialize the data of 4-th subspace. 
+Finish initialize the data of 5-th subspace. 
+The preprocess time is: 1144.88ms.

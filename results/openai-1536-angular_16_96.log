@@ -1,0 +1,20 @@
+>>> Loading dataset from: ./data/openai-1536-angular/openai-1536-angular_base.fvecs
+Cardinality of dataset is: 999900
+>>> Loading query from: ./data/openai-1536-angular/openai-1536-angular_query.fvecs
+Finish initialize the data of 0-th subspace. 
+Finish initialize the data of 1-th subspace. 
+Finish initialize the data of 2-th subspace. 
+Finish initialize the data of 3-th subspace. 
+Finish initialize the data of 4-th subspace. 
+Finish initialize the data of 5-th subspace. 
+Finish initialize the data of 6-th subspace. 
+Finish initialize the data of 7-th subspace. 
+Finish initialize the data of 8-th subspace. 
+Finish initialize the data of 9-th subspace. 
+Finish initialize the data of 10-th subspace. 
+Finish initialize the data of 11-th subspace. 
+Finish initialize the data of 12-th subspace. 
+Finish initialize the data of 13-th subspace. 
+Finish initialize the data of 14-th subspace. 
+Finish initialize the data of 15-th subspace. 
+The preprocess time is: 28025.4ms.

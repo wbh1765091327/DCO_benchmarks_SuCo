@@ -1,0 +1,14 @@
+>>> Loading dataset from: ./data/glove-200-angular/glove-200-angular_base.fvecs
+Cardinality of dataset is: 999900
+>>> Loading query from: ./data/glove-200-angular/glove-200-angular_query.fvecs
+Finish initialize the data of 0-th subspace. 
+Finish initialize the data of 1-th subspace. 
+Finish initialize the data of 2-th subspace. 
+Finish initialize the data of 3-th subspace. 
+Finish initialize the data of 4-th subspace. 
+Finish initialize the data of 5-th subspace. 
+Finish initialize the data of 6-th subspace. 
+Finish initialize the data of 7-th subspace. 
+Finish initialize the data of 8-th subspace. 
+Finish initialize the data of 9-th subspace. 
+The preprocess time is: 3419.98ms.

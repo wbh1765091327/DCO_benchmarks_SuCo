@@ -1,0 +1,76 @@
+ 
+Time: 2025年 06月 17日 星期二 13:31:38 CST
+==========================================
+candidate_ratio: 0.005
+collision_ratio: 0.05
+kmeans_num_centroid: 50
+kmeans_num_iters: 2
+==========================================
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+The indexing time is: 2224.72ms.
+The indexing footprint is: 59MB
+The average query time is 1.358ms.
+When k = 1, recall = 0.9882
+When k = 10, recall = 0.49328
+ 
+Time: 2025年 06月 17日 星期二 13:32:36 CST
+==========================================
+candidate_ratio: 0.005
+collision_ratio: 0.05
+kmeans_num_centroid: 10
+kmeans_num_iters: 2
+==========================================
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+The indexing time is: 769.131ms.
+The indexing footprint is: 50MB
+The average query time is 2.399ms.
+When k = 1, recall = 0.9187
+When k = 10, recall = 0.44056
+ 
+Time: 2025年 06月 17日 星期二 13:34:11 CST
+==========================================
+candidate_ratio: 0.001
+collision_ratio: 0.01
+kmeans_num_centroid: 50
+kmeans_num_iters: 2
+==========================================
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+The indexing time is: 2636.86ms.
+The indexing footprint is: 60MB
+The average query time is 0.748ms.
+When k = 1, recall = 0.9058
+When k = 10, recall = 0.4154
+ 
+Time: 2025年 06月 17日 星期二 13:39:26 CST
+==========================================
+candidate_ratio: 0.001
+collision_ratio: 0.01
+kmeans_num_centroid: 50
+kmeans_num_iters: 2
+==========================================
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+The indexing time is: 2228.33ms.
+The indexing footprint is: 59MB
+The average query time is 0.746ms.
+When k = 1, recall = 0.9058
+When k = 10, recall = 0.4154
+ 
+Time: 2025年 06月 17日 星期二 13:44:24 CST
+==========================================
+candidate_ratio: 0.001
+collision_ratio: 0.02
+kmeans_num_centroid: 50
+kmeans_num_iters: 2
+==========================================

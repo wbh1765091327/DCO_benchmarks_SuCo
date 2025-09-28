@@ -1,0 +1,105 @@
+==========================================
+candidate_ratio: 0.009
+collision_ratio: 0.2
+kmeans_num_centroid: 50
+kmeans_num_iters: 2
+==========================================
+Cardinality of dataset is: 290000
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+The indexing time is: 330.492ms.
+The indexing footprint is: 10MB
+The average query time is 0.539ms.
+When k = 1, recall = 0.8953
+When k = 5, recall = 0.5852
+When k = 10, recall = 0.49401
+==========================================
+candidate_ratio: 0.005
+collision_ratio: 0.1
+kmeans_num_centroid: 50
+kmeans_num_iters: 2
+==========================================
+Cardinality of dataset is: 290000
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+The indexing time is: 174.795ms.
+The indexing footprint is: 10MB
+The average query time is 0.308ms.
+When k = 1, recall = 0.8758
+When k = 5, recall = 0.5733
+When k = 10, recall = 0.46917
+==========================================
+candidate_ratio: 0.005
+collision_ratio: 0.1
+kmeans_num_centroid: 50
+kmeans_num_iters: 10
+==========================================
+Cardinality of dataset is: 290000
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+The indexing time is: 316.549ms.
+The indexing footprint is: 10MB
+The average query time is 0.318ms.
+When k = 1, recall = 0.8824
+When k = 5, recall = 0.57488
+When k = 10, recall = 0.47185
+==========================================
+candidate_ratio: 0.005
+collision_ratio: 0.1
+kmeans_num_centroid: 150
+kmeans_num_iters: 2
+==========================================
+Cardinality of dataset is: 290000
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+The indexing time is: 558.955ms.
+The indexing footprint is: 38MB
+The average query time is 2.67ms.
+When k = 1, recall = 0.893
+When k = 5, recall = 0.58302
+When k = 10, recall = 0.48918
+ 
+Time: 2025年 06月 17日 星期二 13:38:35 CST
+==========================================
+candidate_ratio: 0.001
+collision_ratio: 0.01
+kmeans_num_centroid: 50
+kmeans_num_iters: 2
+==========================================
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+The indexing time is: 345.225ms.
+The indexing footprint is: 1MB
+The average query time is 0.223ms.
+When k = 1, recall = 0.8393
+When k = 10, recall = 0.4294
+ 
+Time: 2025年 06月 17日 星期二 13:44:18 CST
+==========================================
+candidate_ratio: 0.001
+collision_ratio: 0.02
+kmeans_num_centroid: 50
+kmeans_num_iters: 2
+==========================================
+ 
+Time: 2025年 06月 17日 星期二 13:44:32 CST
+==========================================
+candidate_ratio: 0.001
+collision_ratio: 0.03
+kmeans_num_centroid: 50
+kmeans_num_iters: 2
+==========================================
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***

@@ -1,0 +1,56 @@
+>>> Loading dataset from: ./data/gist-960-euclidean/gist-960-euclidean_base.fvecs
+Cardinality of dataset is: 1000000
+>>> Loading query from: ./data/gist-960-euclidean/gist-960-euclidean_query.fvecs
+>>> Loading groundtruth from: ./data/gist-960-euclidean/gist-960-euclidean_groundtruth10.ivecs
+Finish initialize the data of 0-th subspace. 
+Finish initialize the data of 1-th subspace. 
+Finish initialize the data of 2-th subspace. 
+Finish initialize the data of 3-th subspace. 
+Finish initialize the data of 4-th subspace. 
+Finish initialize the data of 5-th subspace. 
+Finish initialize the data of 6-th subspace. 
+Finish initialize the data of 7-th subspace. 
+Finish indexing the 0-th subspace. 
+Finish indexing the 1-th subspace. 
+Finish indexing the 2-th subspace. 
+Finish indexing the 3-th subspace. 
+Finish indexing the 4-th subspace. 
+Finish indexing the 5-th subspace. 
+Finish indexing the 6-th subspace. 
+Finish indexing the 7-th subspace. 
+Finish saving the index to ./data/gist-960-euclidean/gist-960-euclidean_index.bin
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+The indexing time is: 4368.02ms.
+The indexing footprint is: 51MB
+The average query time is 2.265ms.
+When k = 1, recall = 0.898
+When k = 5, recall = 0.561
+When k = 10, recall = 0.4275
+ 
+Time: 2025年 06月 17日 星期二 13:40:48 CST
+==========================================
+candidate_ratio: 0.001
+collision_ratio: 0.01
+kmeans_num_centroid: 50
+kmeans_num_iters: 2
+==========================================
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+The indexing time is: 4507.32ms.
+The indexing footprint is: 65MB
+The average query time is 1.107ms.
+When k = 1, recall = 0.61
+When k = 10, recall = 0.2656
+ 
+Time: 2025年 06月 17日 星期二 13:44:28 CST
+==========================================
+candidate_ratio: 0.001
+collision_ratio: 0.02
+kmeans_num_centroid: 50
+kmeans_num_iters: 2
+==========================================

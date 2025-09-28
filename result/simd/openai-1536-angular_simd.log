@@ -1,0 +1,63 @@
+>>> Loading dataset from: ./data/openai-1536-angular/openai-1536-angular_base.fvecs
+Cardinality of dataset is: 999000
+>>> Loading query from: ./data/openai-1536-angular/openai-1536-angular_query.fvecs
+>>> Loading groundtruth from: ./data/openai-1536-angular/openai-1536-angular_groundtruth10.ivecs
+Finish initialize the data of 0-th subspace. 
+Finish initialize the data of 1-th subspace. 
+Finish initialize the data of 2-th subspace. 
+Finish initialize the data of 3-th subspace. 
+Finish initialize the data of 4-th subspace. 
+Finish initialize the data of 5-th subspace. 
+Finish initialize the data of 6-th subspace. 
+Finish initialize the data of 7-th subspace. 
+Finish initialize the data of 8-th subspace. 
+Finish initialize the data of 9-th subspace. 
+Finish initialize the data of 10-th subspace. 
+Finish initialize the data of 11-th subspace. 
+Finish initialize the data of 12-th subspace. 
+Finish initialize the data of 13-th subspace. 
+Finish initialize the data of 14-th subspace. 
+Finish initialize the data of 15-th subspace. 
+Finish indexing the 0-th subspace. 
+Finish indexing the 1-th subspace. 
+Finish indexing the 2-th subspace. 
+Finish indexing the 3-th subspace. 
+Finish indexing the 4-th subspace. 
+Finish indexing the 5-th subspace. 
+Finish indexing the 6-th subspace. 
+Finish indexing the 7-th subspace. 
+Finish indexing the 8-th subspace. 
+Finish indexing the 9-th subspace. 
+Finish indexing the 10-th subspace. 
+Finish indexing the 11-th subspace. 
+Finish indexing the 12-th subspace. 
+Finish indexing the 13-th subspace. 
+Finish indexing the 14-th subspace. 
+Finish indexing the 15-th subspace. 
+Finish saving the index to ./data/openai-1536-angular/openai-1536-angular_index.bin
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+The indexing time is: 7949.73ms.
+The indexing footprint is: 93MB
+The average query time is 3.255ms.
+When k = 1, recall = 0.981
+When k = 5, recall = 0.5886
+When k = 10, recall = 0.4814
+ 
+Time: 2025年 06月 17日 星期二 13:44:13 CST
+==========================================
+candidate_ratio: 0.001
+collision_ratio: 0.01
+kmeans_num_centroid: 50
+kmeans_num_iters: 2
+==========================================
+ 
+Time: 2025年 06月 17日 星期二 13:44:31 CST
+==========================================
+candidate_ratio: 0.001
+collision_ratio: 0.02
+kmeans_num_centroid: 50
+kmeans_num_iters: 2
+==========================================

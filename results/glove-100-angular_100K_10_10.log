@@ -1,0 +1,34 @@
+>>> Loading dataset from: ./data/glove-100-angular_100k/glove-100-angular_100k_base.fvecs
+Cardinality of dataset is: 100000
+>>> Loading query from: ./data/glove-100-angular_100k/glove-100-angular_100k_query.fvecs
+>>> Loading groundtruth from: ./data/glove-100-angular_100k/glove-100-angular_100k_groundtruth.ivecs
+Finish initialize the data of 0-th subspace. 
+Finish initialize the data of 1-th subspace. 
+Finish initialize the data of 2-th subspace. 
+Finish initialize the data of 3-th subspace. 
+Finish initialize the data of 4-th subspace. 
+Finish initialize the data of 5-th subspace. 
+Finish initialize the data of 6-th subspace. 
+Finish initialize the data of 7-th subspace. 
+Finish initialize the data of 8-th subspace. 
+Finish initialize the data of 9-th subspace. 
+The preprocess time is: 139.607ms.
+Finish indexing the 0-th subspace. 
+Finish indexing the 1-th subspace. 
+Finish indexing the 2-th subspace. 
+Finish indexing the 3-th subspace. 
+Finish indexing the 4-th subspace. 
+Finish indexing the 5-th subspace. 
+Finish indexing the 6-th subspace. 
+Finish indexing the 7-th subspace. 
+Finish indexing the 8-th subspace. 
+Finish indexing the 9-th subspace. 
+Finish saving the index to ./index/glove-100-angular_100k/glove-100-angular_100k_index.bin
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+The indexing time is: 1182.19ms.
+The indexing footprint is: 29MB
+The average query time is 0.351ms.
+When k = 10, (recall, ratio) = (0.6959, 1.00702)

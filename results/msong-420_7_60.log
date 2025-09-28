@@ -1,0 +1,16 @@
+>>> Loading dataset from: ./data/msong-420/msong-420_base.fvecs
+Cardinality of dataset is: 999900
+>>> Loading query from: ./data/msong-420/msong-420_query.fvecs
+>>> Loading groundtruth from: ./data/msong-420/msong-420_groundtruth.ivecs
+Finish initialize the data of 0-th subspace. 
+Finish initialize the data of 1-th subspace. 
+Finish initialize the data of 2-th subspace. 
+Finish initialize the data of 3-th subspace. 
+Finish initialize the data of 4-th subspace. 
+Finish initialize the data of 5-th subspace. 
+Finish initialize the data of 6-th subspace. 
+The preprocess time is: 7503.31ms.
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+************

@@ -1,0 +1,52 @@
+>>> Loading dataset from: ./data/deep-image-96-angular/deep-image-96-angular_base.fvecs
+Cardinality of dataset is: 9990000
+>>> Loading query from: ./data/deep-image-96-angular/deep-image-96-angular_query.fvecs
+>>> Loading groundtruth from: ./data/deep-image-96-angular/deep-image-96-angular_groundtruth10.ivecs
+Finish initialize the data of 0-th subspace. 
+Finish initialize the data of 1-th subspace. 
+Finish initialize the data of 2-th subspace. 
+Finish initialize the data of 3-th subspace. 
+Finish initialize the data of 4-th subspace. 
+Finish initialize the data of 5-th subspace. 
+Finish indexing the 0-th subspace. 
+Finish indexing the 1-th subspace. 
+Finish indexing the 2-th subspace. 
+Finish indexing the 3-th subspace. 
+Finish indexing the 4-th subspace. 
+Finish indexing the 5-th subspace. 
+Finish saving the index to ./data/deep-image-96-angular/deep-image-96-angular_index.bin
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+The indexing time is: 17446.1ms.
+The indexing footprint is: 291MB
+The average query time is 10.015ms.
+When k = 1, recall = 0.9965
+When k = 5, recall = 0.59662
+When k = 10, recall = 0.49533
+ 
+Time: 2025年 06月 17日 星期二 13:41:18 CST
+==========================================
+candidate_ratio: 0.001
+collision_ratio: 0.01
+kmeans_num_centroid: 50
+kmeans_num_iters: 2
+==========================================
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+The indexing time is: 17141.1ms.
+The indexing footprint is: 292MB
+The average query time is 4.706ms.
+When k = 1, recall = 0.9343
+When k = 10, recall = 0.44676
+ 
+Time: 2025年 06月 17日 星期二 13:44:29 CST
+==========================================
+candidate_ratio: 0.001
+collision_ratio: 0.02
+kmeans_num_centroid: 50
+kmeans_num_iters: 2
+==========================================
